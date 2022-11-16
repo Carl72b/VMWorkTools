@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimpleShare", "SimpleShare\SimpleShare.pyproj", "{FC4CCAF1-01D9-4E4B-BBD7-4DBD82C68800}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PCMSoundServer", "PCMSoundServer\PCMSoundServer.pyproj", "{4F4EB5B6-E8F2-48A9-AEBC-D7C63EA16186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4CCAF1-01D9-4E4B-BBD7-4DBD82C68800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4CCAF1-01D9-4E4B-BBD7-4DBD82C68800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4EB5B6-E8F2-48A9-AEBC-D7C63EA16186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4EB5B6-E8F2-48A9-AEBC-D7C63EA16186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FEB6BC0-47FC-4767-BDE3-444283A85ADF}
+	EndGlobalSection
+EndGlobal
